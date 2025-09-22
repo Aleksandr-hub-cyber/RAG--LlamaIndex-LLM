@@ -28,14 +28,7 @@ RAG--LlamaIndex-LLM/
    cd RAG--LlamaIndex-LLM
    ```
 
-2. **Создайте виртуальное окружение и установите зависимости:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # или .\venv\Scripts\activate на Windows
-   pip install -r requirements.txt
-   ```
-
-3. **Запустите Google Colab или Jupyter Notebook:**
+2. **Запустите Google Colab или Jupyter Notebook:**
 
    Откройте нужный ноутбук в браузере и следуйте инструкциям.
 
@@ -50,7 +43,6 @@ RAG--LlamaIndex-LLM/
 
 - Python 3.8+
 - Google Colab или Jupyter Notebook
-- Зависимости из `requirements.txt` (например, llama-index, openai, transformers и др.)
 
 ## Вклад
 
